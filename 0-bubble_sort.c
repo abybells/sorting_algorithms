@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * bubble_sort - a function that sorts an array of integers in ascending order using the Bubble sort algorithm
+ * bubble_sort - a function that sorts an array in ascending order
  * @array: sort array.
  * @size: size of array.
  * Return: Void function.
